@@ -6,7 +6,7 @@ package pkg4.pkg3_johanssonkristian;
 
 /**
  *
- * @author usuario
+ * @author Kristian Johansson Dougal
  */
 import static com.sun.javafx.robot.impl.FXRobotHelper.getChildren;
 import javafx.application.Application;
